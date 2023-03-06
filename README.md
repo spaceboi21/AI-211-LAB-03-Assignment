@@ -14,3 +14,7 @@ To succesfully run those files, please decrease the range and change the variabl
 
 
 The video I made is more than 3 hours long sir, it is very difficult to upload it online, therefore do ask me for the videos when required.
+
+
+
+Graphviz required to be installed manually and added to the windows path, therefore it took too much time. however i did do my research and can explain the workings.
